@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Introvert Rat -- The Owner -- @RatIntrovert
+
+# THANKS
+
+    Me
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
